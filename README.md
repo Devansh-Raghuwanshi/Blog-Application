@@ -27,7 +27,7 @@ Built by **Devansh Singh Raghuwanshi**, a Computer Science and Engineering major
 
 **1. Clone the repository**
 \`\`\`bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Devansh-Raghuwanshi/Blog-Application.git
 cd your-repo-name
 \`\`\`
 
